@@ -82,4 +82,4 @@ theme: next
 deploy:
   type: git
   repository: zhaor@47.95.122.212:/home/zhaor/blog/hexo.git
-  branch: master
+  branch: theme_next
