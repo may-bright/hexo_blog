@@ -4,7 +4,7 @@
 
 # Site
 title: Hexo测试
-subtitle: 我好喜欢你啊
+subtitle: 我超级喜欢你啊
 description: 
 keywords:
 author: Zhao Ran
@@ -73,9 +73,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: next
+theme: next
 #theme: ochuunn
-theme: cyanstyle
+#theme: cyanstyle
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
